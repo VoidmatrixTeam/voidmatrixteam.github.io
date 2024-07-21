@@ -144,12 +144,12 @@
       },
       {
         "language": "Japanese Rev5",
-        "name": "EvCmdNameInStone",
+        "name": "FUN_EvCmdNameInStone",
         "value": "0x203F75C"
       },
       {
         "language": "Japanese Rev6",
-        "name": "EvCmdNameInStone",
+        "name": "FUN_EvCmdNameInStone",
         "value": "0x203F800"
       }
     ],
